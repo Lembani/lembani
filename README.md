@@ -5,9 +5,10 @@
 
 ### <h3 align="center">I am currently a Full Stack Software Developer :mortar_board: Student at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)</h3>
 
-I am a **<i>Fullstack Software Developer 💻</i>** with hands-on experience in developing simple, responsive and dynamic websites using NodeJS. I have been exposed to a good number of skill sets that range from _software development, linux server administration, project management, and sales_.
+<h5 align="left">I am a **<i>Fullstack Software Developer 💻</i>** with hands-on experience in developing simple, responsive and dynamic websites. I have been exposed to a good number of skill sets that range from _software development, linux server administration, project management, and sales_.
 I've gained skills on demand by working on real world projects. I also have great communication skills and remote collaboration skills through pair programming.
-I love having the opportunity to learn about what users (clients) are passionate about and helping them to deliver value to their customers. My goal is to gain more experience and expand my skill set by working on projects that scale.
+
+I love having the opportunity to learn about what users (clients) are passionate about and helping them to deliver value to their customers. My goal is to gain more experience and expand my skill set by working on projects that scale.</h5>
 
 ## <p align="left">My Stats</p>
 
@@ -28,7 +29,7 @@ I love having the opportunity to learn about what users (clients) are passionate
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
 &nbsp;
 
-## Database
+## Databases
 &nbsp;
 ![MANGODB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B) &nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
@@ -38,13 +39,12 @@ I love having the opportunity to learn about what users (clients) are passionate
 &nbsp;
 ![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) &nbsp;
 ![NestJS](https://img.shields.io/badge/Nestjs-ff2244?style=for-the-badge&logo=nodedotjs&logoColor=white) &nbsp;
+![ReactJS](https://img.shields.io/badge/Reactjs-1DA1F2?style=for-the-badge&logo=nodedotjs&logoColor=white) &nbsp;
+![Angular](https://img.shields.io/badge/Angular-ff2244?style=for-the-badge&logo=nodedotjs&logoColor=white) &nbsp;
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) &nbsp;
 ![Material Design](https://img.shields.io/badge/material_design-0769AD?style=for-the-badge&logo=material-design&logoColor=white) &nbsp;
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) &nbsp;
 
-## IDE's
-&nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) &nbsp;
 
 ## Get In Touch With Me On:
 &nbsp;
@@ -53,7 +53,7 @@ href="https://www.linkedin.com/in/lembani-sakala-b58615109"><img
 src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> &nbsp;
 <a target="_blank"
 href="mailto:hello@lembanisakala.com"><img
-src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> &nbsp;
+src="https://img.shields.io/badge/-EMail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> &nbsp;
 <a target="_blank"
 href="https://twitter.com/lembani_"><img
 src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>  &nbsp;
