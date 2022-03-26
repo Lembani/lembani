@@ -1,7 +1,5 @@
-
-### <h2 align="left">Hi there 👋🏾</h2>
-
-## <h1 align="center">I'm Lembani Sakala</h1>
+### <h4 align="left">Hi there 👋🏾,</h4>
+# <h1 align="center"> _**I'm Lembani Sakala**_</h1>
 
 ### <h3 align="center">I am currently a Full Stack Software Developer :mortar_board: Student at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)</h3>
 
