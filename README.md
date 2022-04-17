@@ -3,7 +3,7 @@
 
 ### <h3 align="center">I am currently a Full Stack Software Developer :mortar_board: Student at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)</h3>
 
-<h5 align="left">I am a **<i>Fullstack Software Developer 💻</i>** with hands-on experience in developing simple, responsive and dynamic websites. I have been exposed to a good number of skill sets that range from _software development, linux server administration, project management, and sales_.
+<h5 align="left">I am a <i>Fullstack Software Developer 💻</i> with hands-on experience in developing simple, responsive and dynamic websites. I have been exposed to a good number of skill sets that range from software development, linux server administration, project management, and sales.
 I've gained skills on demand by working on real world projects. I also have great communication skills and remote collaboration skills through pair programming.
 
 I love having the opportunity to learn about what users (clients) are passionate about and helping them to deliver value to their customers. My goal is to gain more experience and expand my skill set by working on projects that scale.</h5>
