@@ -13,6 +13,8 @@ I love having the opportunity to learn about what users (clients) are passionate
 ### <div>[![My Github Stats](https://github-readme-stats.vercel.app/api?username=lembani&theme=merko)](https://github.com/lembani/github-readme-stats)</div>
 ### <div>[![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lembani&theme=merko)](https://github.com/lembani/github-readme-stats)</div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lembani&layout=compact)](https://github.com/Lembani/github-readme-stats)
+
 
 ## Technical Skills
 
