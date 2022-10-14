@@ -1,5 +1,6 @@
 # Lembani Sakala
-> I am a skilled Full-stack software developer, with great communication skills and remote collaboration skills through pair programming. I have worked at different startup businesses developing responsive and dynamic web apps and mobile apps.
+> Skilled Full-stack Software Engineer determined to build great software products that serve humans and balance business goals.
+Proficient in Full-stack web and mobile development with great communication and remote collaboration skills through pair programming. I have worked at different startup businesses developing responsive and dynamic web apps and mobile apps.
 
 ### Sneak peak:
 > 🔭 I’m currently working on Improving my skill set<br>👯 I’m looking to collaborate on any web-based project<br>🤝 I’m looking for help with Algorithms and Data Structures 🥺<br>🌱 I’m currently learning how to be a better developer<br>💬 Ask me about Tech, Footbal or F1 <br>⚡ Fun fact I know how to quit a VIM editor 😁
