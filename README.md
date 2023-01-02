@@ -11,7 +11,7 @@ Proficient in Full-stack web and mobile development with great communication and
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Lembani&theme=merko&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lembani&theme=merko&hide_border=true)<br/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lembani&hide=less,scss,hack&show_icons=true&theme=chartreuse-dark&layout=compact&langs_count=9" alt="Lembani" valign="center" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lembani&langs_count=10&show_icons=true&theme=chartreuse-dark&layout=compact" alt="Lembani" valign="center" />
 
 
 ### 🌐 Let's Connect:
