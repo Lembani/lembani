@@ -1,6 +1,8 @@
 # Lembani Sakala
-> I am a Full-stack Software Engineer determined to build great software products that serve humans and balance business goals.
-Proficient in Full-stack web and mobile development with great communication and remote collaboration skills through pair programming. I have worked at different startup businesses developing responsive and dynamic web apps and mobile apps.
+> I'm a Full-stack software developer with a passion for creating high-quality, scalable, and user-friendly apps. 
+I'm a constant learner and I write clean maintainable code. In addition to my technical skills, I also have good communication skills, remote collaboration skills through pair programming and enjoy collaborating with team members and stakeholders to bring projects to life. 
+Let's build something amazing together!
+
 
 ### Sneak peak:
 > 🔭 I’m looking to collaborate on any project<br>🤝 I’m looking for help with Algorithms and Data Structures 🥺<br>💬 Ask me about Tech, Football or F1 <br>⚡ Fun fact, I know how to quit a VIM editor 😁
