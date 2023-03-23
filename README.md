@@ -12,7 +12,7 @@ Let's build something amazing together!
 
 ### 📊 GitHub Stats:
 <a href="https://github.com/Lembani">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lembani&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lembani&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lembani&layout=compact&langs_count=10&hide=html&theme=chartreuse-dark&hide_border=true" />
 </a>
 
